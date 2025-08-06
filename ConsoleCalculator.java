@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class ConsoleCalculator 
 {
 
@@ -60,7 +61,7 @@ public class ConsoleCalculator
 
     public static void main(String[] args)
     {
-        java.util.Scanner sc = new java.util.Scanner(System.in); // Scanner to read input from user
+        Scanner sc = new java.util.Scanner(System.in); // Scanner to read input from user
         int choice; // Variable to store user's menu choice
         double num1 = 0, num2 = 0, result; // Variables for operands and result
 
