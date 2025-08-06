@@ -84,6 +84,9 @@ This calculator supports a wide range of operations:
    java Calculator
    ```
 
+4. View the source code:
+   [ConsoleCalculator.java](https://github.com/vinayakmishra4/Mini-Project-Console-Based-Calculator/blob/main/ConsoleCalculator.java)
+
 ---
 
 ## 📝 Conclusion
